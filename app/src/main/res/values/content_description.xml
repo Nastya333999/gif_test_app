@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="img_no_search_results">No search result image</string>
+    <string name="error_view">Error image</string>
+    <string name="no_internet">No internet icon</string>
+</resources>

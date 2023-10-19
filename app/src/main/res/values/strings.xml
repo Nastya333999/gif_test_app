@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Giphy</string>
+    <string name="gif_title">Gifs</string>
+    <string name="placeholder_text">Search gifs</string>
+    <string name="empty_view_title">Oppps…</string>
+    <string name="no_search_results">No search results</string>
+    <string name="start_typing_search">Start typing search</string>
+    <string name="in_offline">App in offline</string>
+    <string name="delete_dialog_title">Delete</string>
+    <string name="delete_dialog_description">Are you sure you want to delete the gif?</string>
+    <string name="cancel_btn_text">Cancel</string>
+    <string name="delete_btn_text">Delete</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="reload">Reload</string>
+    <string name="trying_to_connect">Trying to connect</string>
+    <string name="you_are_offline_text">You are offline and this query not cached</string>
+</resources>
